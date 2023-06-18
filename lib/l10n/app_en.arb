@@ -1,0 +1,14 @@
+{
+  "tasks": "Tasks",
+  "@tasks": {
+    "description": "Tasks"
+  },
+  "teams": "Teams",
+  "@teams": {
+    "description": "Teams"
+  },
+  "projects": "Projects",
+  "@projects": {
+    "description": "Projects"
+  }
+}
