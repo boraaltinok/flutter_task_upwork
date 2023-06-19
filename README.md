@@ -1,3 +1,20 @@
+## NOTE ABOUT RUNNING THE APP
+You have to put flutter_gen directory in configurations/flutter_gen to your .dart_tool directory. flutter_gen contains relevant information about Arabic/English translations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Programming Assignment
 
 In this programming assignment, you’ll create a simple web application in Flutter. The application will be used to display a Master-Detail view for a list of tasks obtained from the mocked API. The example design is presented in the image below.
