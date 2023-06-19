@@ -1,5 +1,6 @@
 ## NOTE ABOUT RUNNING THE APP
-You have to put flutter_gen directory in lib/configurations/flutter_gen to your .dart_tool directory. flutter_gen contains relevant information about Arabic/English translations.
+You have to run "flutter gen-l10n --template-arb-file=app_en.arb" command before running the app in order to generate the necessary files for Arabic/English translations
+
 
 
 
